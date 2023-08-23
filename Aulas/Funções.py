@@ -21,3 +21,19 @@ def calcula_energia_potencial_gravitacional(m, h, g = 10):
     return e
 
 print(calcula_energia_potencial_gravitacional(30, 12))
+
+def exibir_mensagem(nome):
+    print(f'O meu nome é: {nome}')
+
+exibir_mensagem("Kauhan")
+
+def adicao(*args):
+    resultado = 0
+    
+    for argumento in args:
+        resultado += argumento
+    return resultado
+
+print(adicao(1, 2))
+print(adicao(1, 2, 4, 6))
+print(adicao(1, 2, 4, 6, 8, 10))
