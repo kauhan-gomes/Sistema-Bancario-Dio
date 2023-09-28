@@ -13,3 +13,4 @@ except KeyboardInterrupt:
     print('Usuario interrompeu a execução')
 else:
     print(f'O resultado da divisão é: {divisao}')
+
