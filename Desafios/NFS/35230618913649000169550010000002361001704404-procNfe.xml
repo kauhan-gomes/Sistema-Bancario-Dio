@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe35230618913649000169550010000002361001704404" versao="4.00"><ide><cUF>35</cUF><cNF>00170440</cNF><natOp>VENDA</natOp><mod>55</mod><serie>1</serie><nNF>236</nNF><dhEmi>2023-06-21T14:26:00-03:00</dhEmi><dhSaiEnt>2023-06-21T14:40:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3549409</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>4</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>0</indPres><procEmi>3</procEmi><verProc>4.01_sebrae_b040</verProc></ide><emit><CNPJ>18913649000169</CNPJ><xNome>RSA COMPUTADORES EIRELI</xNome><xFant>RSA INFORMÁTICA</xFant><enderEmit><xLgr>RUA NATAL</xLgr><nro>153</nro><xBairro>CENTRO</xBairro><cMun>3549409</cMun><xMun>Sao Joaquim da Barra</xMun><UF>SP</UF><CEP>14600000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderEmit><IE>642046849119</IE><IM>12543</IM><CNAE>4751201</CNAE><CRT>1</CRT></emit><dest><CNPJ>07871727000193</CNPJ><xNome>ARBEITT INFRAESTRUTURA, COMERCIO E SERVICOS LTDEA.</xNome><enderDest><xLgr>AV MAURILIO BIAGI</xLgr><nro>800</nro><xCpl>SALA 502</xCpl><xBairro>RIBEIRANIA</xBairro><cMun>3543402</cMun><xMun>Ribeirao Preto</xMun><UF>SP</UF><CEP>14096075</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>1636292929</fone></enderDest><indIEDest>1</indIEDest><IE>582701378112</IE><email>CONTABILIDADE@MATTARAIA.COM.BR</email></dest><det nItem="1"><prod><cProd>47</cProd><cEAN/><xProd>BATERIA SELADA ENERGYPOWER 12V 7A 1EP018 NOBREAK</xProd><NCM>85235190</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>2.0000</qCom><vUnCom>148.5000000000</vUnCom><vProd>297.00</vProd><cEANTrib/><uTrib>UN</uTrib><qTrib>2.0000</qTrib><vUnTrib>148.5000000000</vUnTrib><vDesc>20.00</vDesc><indTot>1</indTot></prod><imposto><vTotTrib>48.11</vTotTrib><ICMS><ICMSSN102><orig>0</orig><CSOSN>102</CSOSN></ICMSSN102></ICMS><PIS><PISOutr><CST>99</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>99</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>297.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>20.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>277.00</vNF><vTotTrib>48.11</vTotTrib></ICMSTot></total><transp><modFrete>9</modFrete></transp><pag><detPag><indPag>0</indPag><tPag>01</tPag><vPag>277.00</vPag></detPag></pag><infAdic><infCpl>I- DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL II- NÃO GERA DIREITO Á CRÉITO FISCAL DE IPI.</infCpl></infAdic><infRespTec><CNPJ>43728245000142</CNPJ><xContato>suporte</xContato><email>suporteemissores@sebraesp.com.br</email><fone>08005700800</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#NFe35230618913649000169550010000002361001704404"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>LosTngD8jsFqFBx+E62ottitNjo=</DigestValue></Reference></SignedInfo><SignatureValue>gW9R7/XoYsYIjJquEiuaTpHTqfDUus0dgdd9OW4Yr1FUYrDq08h9mkbK5XYbMvCytrY9kppnf9Uu
+BfHXe05nPnl7Tu6pNkuS+6/x7xQMqpe7a4L9Tt/6Kzbb7/sjv6f7df4cITxlVRHnVohK3aneKKDw
+oIc6lkPTS/rOAS3IkvTzTUeTMtT/cRNWafx7lOoZulRtTU2qDJK9H3E4rocMjmmbbBPLW+oYRokw
+BYdZp/UGGqFm6hvrcIkg/3rLwa34/f3Gt87gEKPbqr3wf4gIhSF+hkfzmbP8l0y1jb+6zeQL+qQ8
+o0vk9nJx16ZijAcqxxuSaLPsrt6a3yCmthQCow==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHSjCCBTKgAwIBAgIIak8hEidfhkcwDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09M
+VVRJIE11bHRpcGxhIHY1MB4XDTIxMTIyNzE5MDkwMFoXDTI0MTIyNzE5MDkwMFowgekxCzAJBgNV
+BAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJTUDEdMBsGA1UEBxMUU2FvIEpv
+YXF1aW0gZGEgQmFycmExHjAcBgNVBAsTFUFDIFNPTFVUSSBNdWx0aXBsYSB2NTEXMBUGA1UECxMO
+MjkxODA3NTcwMDAxOTYxEzARBgNVBAsTClByZXNlbmNpYWwxGjAYBgNVBAsTEUNlcnRpZmljYWRv
+IFBKIEEzMS8wLQYDVQQDEyZSU0EgQ09NUFVUQURPUkVTIEVJUkVMSToxODkxMzY0OTAwMDE2OTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIqXxJWJand/pJiKoMHv00K2zst0AP3Qe0EP
+C4Dvr38ZXKw6yh5LBtQerzXIsDun5nkphP8U7UJPvS1fSfEIoy2bKMLhb4AiUv2gTVThq8FnQlC7
+WiFhQ0sd5rUbHxQPELWgBPkgyOOd60AuTIVyxlybbIp2JCEeEb3GJzgxl7Fo4rqzmVSaWTRY64Hg
+CuUGjtYVoyk5pXlViuW6DUM78ogP2C1iqbJGe5AtYJ6caxyV+UyL+R+dvL6or/1PGb2aebiyhBuX
+NERzt7nBhXqJUjrTd99jR0CWK1pct0nVSCml5iuqt649HKnGeR0jv/oC82OfLEwcEozMxgp5Sdro
+dE0CAwEAAaOCAoMwggJ/MAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUxVLtJYAJ35yCyJ9Hxt20XzHd
+ubEwVAYIKwYBBQUHAQEESDBGMEQGCCsGAQUFBzAChjhodHRwOi8vY2NkLmFjc29sdXRpLmNvbS5i
+ci9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXY1LnA3YjCBvgYDVR0RBIG2MIGzgRpzdXBvcnRlQHJz
+YWluZm9ybWF0aWNhLmNvbaAnBgVgTAEDAqAeExxKQU5BSU5BIERFIENBU1RSTyBBUkVTIEFMVkVT
+oBkGBWBMAQMDoBATDjE4OTEzNjQ5MDAwMTY5oDgGBWBMAQMEoC8TLTI2MDIxOTgxMjIwOTI3NDQ4
+NjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwXQYD
+VR0gBFYwVDBSBgZgTAECAyUwSDBGBggrBgEFBQcCARY6aHR0cDovL2NjZC5hY3NvbHV0aS5jb20u
+YnIvZG9jcy9kcGMtYWMtc29sdXRpLW11bHRpcGxhLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYI
+KwYBBQUHAwQwgYwGA1UdHwSBhDCBgTA+oDygOoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIv
+bGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12NS5jcmwwP6A9oDuGOWh0dHA6Ly9jY2QyLmFjc29sdXRp
+LmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXY1LmNybDAdBgNVHQ4EFgQULYf2sRXJPH6f
+kNQi+K9LexSFhzowDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQA+ldlyVpChMj6A
+eaIH9X5u0OjWDoS57E+newUl/sswzFAR2kYFIPWBHDhLVykl5Dq5gMwzgaOQQIgr6b0TmI7rTltT
+nCaYYQ+nfMXD0YXmZTYXqCDj4sJtV7SukExGlzQ41+squRWLMb/fe5WFKk5WjjiYIiYjWVXF80Tm
+C7yRbEaIgNvEbyC01EngaZejDbTjpczb2e50jClpEFsqkDyhjPfG5BogmLF0ANNtyR6Ejqf1HOdG
+L4upXhaJYnI5UYnD2qMN4RFT8kXPkLbU4y6tYOwuJGf9gQNNSSE/J+ZtCANlHJbB6P48lw44ht7m
+IL82oUBZfym9Ak1aZMdJatWKyEEEw2mUbLmeP18UKKPNJ9UtHV/wyW0mntLUgCKLhzOBhx5IW4X8
+VWx4CPf+u5CWstOe+ZXQ0v651pzRZmkKyNoCAYnlLYh+dg3qItIo/ZySmNlS3Qa1eUr09JeQOBgN
+4lG2NCG0NAZzb63rm/nYXh+3rgE4GZOstQbp+JufSV+hJHf611+CyqwvJtFhwn/fDxwccbp/i2uF
+6F2Z8hZt8ZxpMtm6m29jxya6w5kIvxsrQ55gcdgyre3b/wdM8NAgehdpLdY4jdoy8YMaHhpohwSO
+yCV3SLADQ6TmT1Sry3hq17l/soC8byH+UgGIBDq7S3AU1fbnpPsZ0mFUL4JzJQ==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SP_NFE_PL009_V4</verAplic><chNFe>35230618913649000169550010000002361001704404</chNFe><dhRecbto>2023-06-21T14:37:27-03:00</dhRecbto><nProt>135230975013349</nProt><digVal>LosTngD8jsFqFBx+E62ottitNjo=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>
